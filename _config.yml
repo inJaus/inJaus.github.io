@@ -15,7 +15,9 @@ menu:
   - title: Home
     url: /
   - title: Manifesto
-    url: /
+    url: /manifesto
+  - title: ¿Quiénes somos?
+    url: /staff
   - title: Sobre nosotros
     url: /about
   - title: Contacta
