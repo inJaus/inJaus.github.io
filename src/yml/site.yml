@@ -1,21 +1,25 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: inJaus
+title: inJaus | #EmpiezaLaRevolución
+description: inJaus es una iniciativa que soporta proyectos que quieran cambiar el mundo, para mejor.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
+  - inUtil ffa
+  - inBu
+  - inUtil edge
+  - Herminia
+  - internet distrubuida
+email: info@injaus.eu
 disqus_username: disqus_username
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: Manifesto
+    url: /
+  - title: Sobre nosotros
     url: /about
-  - title: Contact
+  - title: Contacta
     url: /contact
-  - title: Feed
+  - title: Feed RSS
     url: /feed.xml
+paginate: 6
+
