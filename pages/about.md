@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: Sobre inJaus.
 permalink: /about/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
-# About
+# Sobre inJaus
 
 Tras largas horas de conversación, un grupo de amigos decidimos construir pequeñas cosas que faciliten el día a día a la sociedad. Al aglutinador de todos esos pequeños proyectos que quieren cambiar el mundo, le llamaron: **inJaus.
 
