@@ -12,3 +12,5 @@ permalink: /manifesto.html
 4.- Mercados: No somos expertos en nada en concreto, ni queremos serlo. No tenemos intereses distintos de los que pueda tener un consumidor medio.
 5.- Compromiso social: Queremos aconsejar a nuestras familias, amigos y vecinos, de manera simple, sobre pequeñoas acciones que ayuden a mejorar el mundo.
 6.- Tecnología: Creamos y usamos herramientas que creemos hacen la vida más cómoda a la sociedad. Nos apasiona cómo la tecnología puede darnos más libertad en lugar de quitárnosla.
+
+
